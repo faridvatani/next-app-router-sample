@@ -14,7 +14,7 @@ const page: FC<pageProps> = async ({}) => {
 
   return (
     <>
-      <div>Dashboard Page</div>
+      <div>course Page</div>
       <h2>{data.body}</h2>
     </>
   );
